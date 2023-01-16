@@ -22,3 +22,8 @@
 - Install cloudflared as a system service:
 
 `cloudflared service install`
+
+## Misc Articles
+
+https://www.linuxserver.io/blog/zero-trust-hosting-and-reverse-proxy-via-cloudflare-swag-and-authelia
+
